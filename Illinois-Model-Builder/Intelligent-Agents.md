@@ -14,11 +14,13 @@
 
    [AgentPy](https://agentpy.readthedocs.io/en/latest/index.html)
 
-4) Genetic and Evolutionary Computing
+4) Genetic and Evolutionary Algorithms, Collective Behavior
 
    [Digital Evolution Software](https://github.com/devosoft)
 
    [Swarm](http://www.swarm.org/wiki/Swarm_main_page)
+
+   [Boids (PyNBoids)](https://github.com/Nikorasu/PyNBoids)
 
 3) Reinforcement Learning
 
