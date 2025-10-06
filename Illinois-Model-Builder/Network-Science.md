@@ -1,11 +1,21 @@
 ## Network Science Primer
 
-  [Overview of Available Resources](https://network-science.org)
+1) Basic Resources and Definitions   
+  
+  [Overview of Available Resources](https://network-science.org)   
 
-  [Network Visualizations in Plotly](https://plotly.com/python/network-graphs/)
+  [Network Analysis: A Definitional Guide to Important Concepts](https://academic.oup.com/edited-volume/41258/chapter-abstract/350834799?redirectedFrom=fulltext)   
 
-  [Network Analysis: A Definitional Guide to Important Concepts](https://academic.oup.com/edited-volume/41258/chapter-abstract/350834799?redirectedFrom=fulltext)
+2) Tools and Methods   
 
-  [NetSci (Society for Network Science](https://netscisociety.net/home)
+  [Network Visualizations in Plotly](https://plotly.com/python/network-graphs/)   
+  
+  [NetSci (Society for Network Science)](https://netscisociety.net/home)   
+
+3) Visualization Platforms   
+
+  [Gephi](https://gephi.org/)   
+
+  [Cytoscape](https://cytoscape.org/)   
 
  
