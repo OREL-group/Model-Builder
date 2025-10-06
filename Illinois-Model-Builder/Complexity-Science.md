@@ -11,3 +11,9 @@
   [Project MESA (Python) -- Emergence and Agent=based Modeling](https://github.com/projectmesa)
 
   [Nonlinear Dynamics course materials -- Santa Fe Institute](https://github.com/rajesh-s/nonlinear_dynamics_course)
+
+3) Topics in Complexity
+
+   [The Epidemiologist R Handbook](https://epirhandbook.com/en/)
+
+   [Time-series forecasting for causal emergence](https://github.com/Matthew-ymz/Time-series-forecasting-for-causal-emergence)
