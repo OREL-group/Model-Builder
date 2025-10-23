@@ -8,19 +8,29 @@
 
    [Developmental Braitenberg Vehicles](https://github.com/OREL-group/DevelopmentalBVs)
 
-3) Agent-based Models
+2) Boids (bird-oid object)
+
+   [Flocking Simulation: The Coding Train](https://www.youtube.com/watch?v=mhjuuHl6qHM)
+
+   [How do Boids Work? A Flocking Simulation](https://www.youtube.com/watch?v=QbUPfMXXQIY&), [Jack Perkins' Github Repo](https://github.com/jackaperkins/boids)    
+
+   [Boids (PyNBoids)](https://github.com/Nikorasu/PyNBoids)
+
+   [Boids! RSD Engineering Course, UCL](https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch02data/084Boids.html)
+
+4) Agent-based Models
 
    [PyGame](https://www.pygame.org/news)
 
-   [AgentPy](https://agentpy.readthedocs.io/en/latest/index.html)
+   [AgentPy](https://agentpy.readthedocs.io/en/latest/index.html)    
 
-4) Genetic and Evolutionary Algorithms, Collective Behavior
+5) Genetic and Evolutionary Algorithms, Collective Behavior
 
    [Digital Evolution Software](https://github.com/devosoft)
 
-   [Swarm](http://www.swarm.org/wiki/Swarm_main_page)
+   [Swarm](http://www.swarm.org/wiki/Swarm_main_page)    
 
-   [Boids (PyNBoids)](https://github.com/Nikorasu/PyNBoids)
+   [Fish School Modeling, Deep-Q Networks](https://ieeexplore.ieee.org/abstract/document/10087222/references#references), [Deep-Q Network tutorial](https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)      
 
 3) Reinforcement Learning
 
