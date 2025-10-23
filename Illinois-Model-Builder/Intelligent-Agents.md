@@ -30,13 +30,15 @@
 
    [Swarm](http://www.swarm.org/wiki/Swarm_main_page)    
 
-   [Fish School Modeling, Deep-Q Networks](https://ieeexplore.ieee.org/abstract/document/10087222/references#references), [Deep-Q Network tutorial](https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)      
+   [Fish School Modeling, Deep-Q Networks](https://ieeexplore.ieee.org/abstract/document/10087222/references#references)
 
 3) Reinforcement Learning
 
    [RL in PyTorch](https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
    [Gymnasium -- RL Benchmarking](https://gymnasium.farama.org/)
+
+   [Deep-Q Network tutorial](https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)      
 
 5) City Builders
 
