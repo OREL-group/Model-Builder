@@ -11,4 +11,4 @@ Tutorials:
 
 2) [From Conway to Lenia](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb) from the OpenLenia initiative.
 
-3) [Symbulation (Avida)](https://anyaevostinar.github.io/SymbulationEmp/web/symbulation.html)
+3) [Symbulation (Avida)](https://anyaevostinar.github.io/SymbulationEmp/web/symbulation.html) Symbiont Evolution from [SymbuLab](https://anyaevostinar.github.io/).
