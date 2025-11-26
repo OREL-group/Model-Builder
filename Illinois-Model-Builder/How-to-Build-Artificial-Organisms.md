@@ -10,3 +10,5 @@ Tutorials:
 1) [Boids tutorial](https://alan-turing-institute.github.io/rse-course/html/module03_research_data_in_python/03_06_boids.html) from Alan Turning Institute.
 
 2) [From Conway to Lenia](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb) from the OpenLenia initiative.
+
+3) [Symbulation (Avida)](https://anyaevostinar.github.io/SymbulationEmp/web/symbulation.html)
