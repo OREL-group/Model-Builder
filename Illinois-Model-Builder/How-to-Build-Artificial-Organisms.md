@@ -7,8 +7,8 @@
 [ProSem lecture](https://docs.google.com/presentation/d/1WpMEQUwACqEyk_jXVG8WWZEF4y7m21XO2b27tgMcuzc/edit?usp=sharing), December 2025.
 
 Tutorials: 
-1) [Boids tutorial](https://alan-turing-institute.github.io/rse-course/html/module03_research_data_in_python/03_06_boids.html) from Alan Turning Institute.
+1) [Boids tutorial](https://alan-turing-institute.github.io/rse-course/html/module03_research_data_in_python/03_06_boids.html) from [Alan Turning Institute](https://www.turing.ac.uk/).
 
-2) [From Conway to Lenia](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb) from the OpenLenia initiative.
+2) [From Conway to Lenia](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb) from the [OpenLenia initiative](https://openlenia.github.io/).
 
 3) [Symbulation (Avida)](https://anyaevostinar.github.io/SymbulationEmp/web/symbulation.html) Symbiont Evolution from [SymbuLab](https://anyaevostinar.github.io/).
